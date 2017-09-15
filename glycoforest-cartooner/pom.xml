@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.expasy.glycoforest</groupId>
+    <artifactId>glycoforest-cartooner</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>eurocarb</groupId>
+            <artifactId>eurocarb-glycanbuilder</artifactId>
+            <version>1.0rc</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/Oliver/Documents/IdeaProjects/glycan-cartooner/lib/eurocarb-glycanbuilder-1.0rc.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>eurocarb</groupId>
+            <artifactId>eurocarb-molecularframework</artifactId>
+            <version>1.0rc</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/Oliver/Documents/IdeaProjects/glycan-cartooner/lib/eurocarb-molecularframework-1.0rc.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>eurocarb</groupId>
+            <artifactId>eurocarb-resourcesdb</artifactId>
+            <version>1.0rc</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/Oliver/Documents/IdeaProjects/glycan-cartooner/lib/eurocarb-resourcesdb-1.0rc.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.expasy.jupac2ct</groupId>
+            <artifactId>iupac2ct</artifactId>
+            <version>140114</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/Oliver/Documents/IdeaProjects/glycan-cartooner/lib/iupac2ct_140114.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-swing</artifactId>
+            <version>1.7</version>
+        </dependency>
+        <dependency>
+            <groupId>jdom</groupId>
+            <artifactId>jdom</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+</project>

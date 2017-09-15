@@ -1,0 +1,14 @@
+{
+  "core_1" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dgal-HEX-1:5\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d",
+  "core_3" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dglc-HEX-1:5\n4s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n",
+  "core_2" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dgal-HEX-1:5\n4b:b-dglc-HEX-1:5\n5s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:1o(6+1)4d\n4:4d(2+1)5n",
+  "core_5" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:a-dgal-HEX-1:5\n4s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n",
+  "core_4" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dglc-HEX-1:5\n4s:n-acetyl\n5b:b-dglc-HEX-1:5\n6s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n\n4:1o(6+1)5d\n5:5d(2+1)6n",
+  "core_5_Neu5Ac" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:a-dgal-HEX-1:5\n4s:n-acetyl\n5b:a-dgro-dgal-NON-2:6|1:a|2:keto|3:d\n6s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n\n4:1o(6+2)5d\n5:5d(5+1)6n",
+  "core_1_Neu5Ac" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dgal-HEX-1:5\n4b:a-dgro-dgal-NON-2:6|1:a|2:keto|3:d\n5s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:1o(6+2)4d\n4:4d(5+1)5n",
+  "core_3_Neu5Ac" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dglc-HEX-1:5\n4s:n-acetyl\n5b:a-dgro-dgal-NON-2:6|1:a|2:keto|3:d\n6s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n\n4:1o(6+2)5d\n5:5d(5+1)6n",
+  "core_7" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:a-dgal-HEX-1:5\n4s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(6+1)3d\n3:3d(2+1)4n",
+  "core_6" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dglc-HEX-1:5\n4s:n-acetyl\nLIN\n1:1d(2+1)2n\n2:1o(6+1)3d\n3:3d(2+1)4n",
+  "core_8" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:a-dgal-HEX-1:5\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d",
+  "core_3_Neu5Gc" : "RES\n1b:o-dgal-HEX-0:0|1:aldi\n2s:n-acetyl\n3b:b-dglc-HEX-1:5\n4s:n-acetyl\n5b:a-dgro-dgal-NON-2:6|1:a|2:keto|3:d\n6s:n-glycolyl\nLIN\n1:1d(2+1)2n\n2:1o(3+1)3d\n3:3d(2+1)4n\n4:1o(6+2)5d\n5:5d(5+1)6n"
+}
